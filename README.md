@@ -1,0 +1,2 @@
+# Temperature_detection_Smartphone
+Temperature Detection using Smartphone
